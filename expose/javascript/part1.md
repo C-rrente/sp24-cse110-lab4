@@ -1,4 +1,5 @@
 Questions:
+
 *var declaration*
 1) What is printed by line 9? If the code returns an error, explain why.
 Answer: Line 9 prints "values added:  20"
