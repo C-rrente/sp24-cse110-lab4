@@ -23,4 +23,4 @@ Answer: Thu, 15 Sep 2022 22:44:30 GMT\
 Answer: application/json; charset=utf-8\
 
 9) Which function inside the initiating file made the request?\
-Answer: fetchData
+Answer: fetchData\
